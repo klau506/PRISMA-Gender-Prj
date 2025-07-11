@@ -11,7 +11,7 @@ Source code and data for the group project in the PRISMA Summer School 2025 - Ut
 
 ## How to use this repo?
 - Download [R](https://cran.r-project.org/bin/windows/base/) (and [RStudio](https://posit.co/download/rstudio-desktop/)).
-- Run the `R/preliminary_results.R`.
+- Run `R/preliminary_results.R` and `R/regression_index1.R` to reproduce the analysis.
 
 ## How to contribute?
 Open an issue or a pull request in this repo! We would love to hear your thoughts!! 🚀
