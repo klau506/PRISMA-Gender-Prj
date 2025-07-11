@@ -13,6 +13,12 @@ rename_countries <- function(data) {
     mutate(country = if_else(grepl('Tanzania', country), 'Tanzania', country)) %>% 
     mutate(country = if_else(grepl('Palestinian', country), 'Palestina', country)) %>% 
     mutate(country = if_else(grepl('United States', country), 'USA', country)) %>% 
+    mutate(country = if_else(grepl('Yemen', country), 'Yemen', country)) %>% 
+    mutate(country = if_else(grepl('Egypt', country), 'Egypt', country)) %>% 
+    mutate(country = if_else(grepl('Moldova', country), 'Rep. Moldova', country)) %>% 
+    mutate(country = if_else(grepl('Slovak', country), "Slovakia", country)) %>% 
+    mutate(country = if_else(grepl('Congo, Dem', country), "Congo, Dem. Rep.", country)) %>% 
+    mutate(country = if_else(grepl('Ivoire', country), "Côte d'Ivoire", country)) %>% 
     mutate(country = if_else(grepl('Ivore', country), "Côte d'Ivoire", country)) 
 }
 
@@ -277,7 +283,6 @@ pl <- ggplot(data_final %>%
                filter(year == 2006), aes(
                  x = ratio_edu_intermidiate_F,
                  y = rate_household_W,
-                 # size = rate_working_W,
                  color = gdppc,
                  label = country
                )) +
