@@ -1,0 +1,20 @@
+classif2.label,category
+"Economic activity (ISIC-Rev.3.1): Total",Total
+"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry",Outdoor
+"Economic activity (ISIC-Rev.3.1): C. Mining and quarrying",Outdoor
+"Economic activity (ISIC-Rev.3.1): D. Manufacturing",Indoor
+"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply",Outdoor
+"Economic activity (ISIC-Rev.3.1): F. Construction",Outdoor
+"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",Indoor
+"Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants",Indoor
+"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications",Outdoor
+"Economic activity (ISIC-Rev.3.1): J. Financial intermediation",Indoor
+"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities",Indoor
+"Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security",Indoor
+"Economic activity (ISIC-Rev.3.1): M. Education",Indoor
+"Economic activity (ISIC-Rev.3.1): N. Health and social work",Indoor
+"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities",Indoor
+"Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households",Indoor
+"Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies",Indoor
+"Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified",NA
+"Economic activity (ISIC-Rev.3.1): B. Fishing",Outdoor

@@ -1,0 +1,8 @@
+Data files:
+1. EMP_TEMP_SEX_AGE_ECO_NB_A-20250709T1646.csv
+2. EMP_TEMP_SEX_AGE_EDU_NB_A-20250709T1738.csv
+3. EMP_TEMP_SEX_AGE_NB_A-20250709T1633.csv
+
+Data source: https://ilostat.ilo.org/topics/employment/
+
+Data download data: 9-7-2025
