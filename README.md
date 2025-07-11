@@ -4,7 +4,7 @@ The impact of the SSPs on the Labor Productivity from a Gender perspective
 Source code and data for the group project in the PRISMA Summer School 2025 - Utrecht.
 
 ## What's in this repo?
-- data: folder with the datafiles from [ILOSTAT](https://ilostat.ilo.org/topics/employment/) to produce the analysis.
+- data: folder to store the data downloaded from [ILOSTAT](https://ilostat.ilo.org/topics/employment/) to produce the analysis. Metadata available on the specific datasets, which are not uploaded due to weight constraints.
 - misc: folder with own produced mappings.
 - R: folder with source code to reproduce the figures and the analysis.
 - presentation: folder with the final group presentation.
